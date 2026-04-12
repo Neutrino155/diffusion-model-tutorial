@@ -2,9 +2,9 @@
 
 This repo contained the following tutorial notebooks on diffusion models aimed at computational chemistry students:
 
-1. [`diffusion-fundamentals.ipynb`](./diffusion-fundamentals.ipynb) - introduces unconditional diffusion first, then conditional diffusion, then the bridge to materials.
-2. [`crystal-diffusion-from-scratch.ipynb`](./crystal-diffusion-from-scratch.ipynb) - a lightweight crystal diffusion notebook built on top of the fundamentals.
-3. [`sota-crystals-comparison.ipynb`](./sota-crystals-comparison.ipynb) - MatterGen first, then Chemeleon2 as higher-complexity SOTA example.
+1. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Neutrino155/diffusion-model-tutorial/blob/main/diffusion-fundamentals.ipynb) [`diffusion-fundamentals.ipynb`](./diffusion-fundamentals.ipynb) - introduces unconditional diffusion first, then conditional diffusion, then the bridge to materials.
+2. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Neutrino155/diffusion-model-tutorial/blob/main/crystal-diffusion-from-scratch.ipynb) [`crystal-diffusion-from-scratch.ipynb`](./crystal-diffusion-from-scratch.ipynb) - a lightweight crystal diffusion notebook built on top of the fundamentals.
+3. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Neutrino155/diffusion-model-tutorial/blob/main/sota-crystals-comparison.ipynb) [`sota-crystals-comparison.ipynb`](./sota-crystals-comparison.ipynb) - MatterGen first, then Chemeleon2 as higher-complexity SOTA example.
 
 ## What each notebook is for
 
